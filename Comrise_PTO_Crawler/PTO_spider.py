@@ -76,8 +76,8 @@ def login():
 	session = requests.session()
 
 	login_data = {
-		'username': 'admin@comrise',
-		'password': 'c71u5r3',
+		'username': 'USERNAME',
+		'password': 'PASSWORD',
 		'action': 'login'
 	}
 
